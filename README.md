@@ -1,3 +1,3 @@
 # rumahsampah
-<h2>Demo Website Rumah Sampah</h2>
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+<h2>Website Rumah Sampah</h2>
+<a href="https://rumahsampah.netlify.app/" target="_blank">Demo</a>
